@@ -32,7 +32,9 @@ Ahora se realiza una comparación durante un año entre dos parecidos,  [Arsys](
 ![Captura de Arsys](./imagenes/arsys.png)
 ![Captura de 1and1](./imagenes/1and1.png)
 
-Por lo que vemos que prácticamente ambos nos ofrecen lo mismo, aunque 1and1 es más caro debido a que ofrece más almacenamiento, ambos servicios ofrecen intel Xeon.
+Por lo que vemos que prácticamente ambos nos ofrecen lo mismo, aunque 1and1 es algo más caro debido a que ofrece más almacenamiento, ambos servicios ofrecen intel Xeon.  
+
+Al año _Arsys_ nos costaría 180 euros y _1and1_ serían 240 euros.
 
 * * *
 
