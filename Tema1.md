@@ -51,7 +51,8 @@ Ejercicio 3
 1.  **Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.**  
 
   Lo contiene:
-![Captura de kernel](./imagenes/kernel.png)
+![Captura de kernel](./imagenes/kernel.png)  
+
 2.  **Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.**  
 
   [Instalamos un hipervisor con KVM](http://www.ubuntuboss.com/ubuntu-server-16-04-as-a-hypervisor-using-kvm-and-kimchi-for-vm-management/)
