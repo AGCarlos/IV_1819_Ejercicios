@@ -63,7 +63,7 @@ Ejercicio 3
 
 -   **Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.**
 
-Ejercicio 5
+Creamos una cuenta en [Azure de Microsoft](https://azure.microsoft.com/es-es/services/kubernetes-service/)
 
 * * *
 
