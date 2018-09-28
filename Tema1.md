@@ -48,8 +48,9 @@ Ejercicio 3
 
 ##### Ejercicio 4:
 
-1.  **Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.**
-Lo contiene:
+1.  **Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.**  
+
+  Lo contiene:
 ![Captura de kernel](./imagenes/kernel.png)
 2.  **Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.**  
 
